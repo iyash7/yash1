@@ -1,6 +1,7 @@
 Certainly! Below is the README file for your `GigEconomyPlatform` smart contract:
 
 ---
+![image](https://github.com/user-attachments/assets/a16c71a6-8a71-4127-8c44-38b736fa81d8)
 
 # Gig Economy Platform Smart Contract
 
